@@ -1,0 +1,345 @@
+=====================================================================================
+2023-08-21 12:15:28:465 => [                                                    main.cpp, 00138] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-08-21 12:15:28:465 => [                                                    main.cpp, 00139] => System is server:No
+2023-08-21 12:15:28:465 => [                                                    main.cpp, 00140] => Software is 64 bit:Yes
+2023-08-21 12:15:28:465 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-08-21 12:15:28:530 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-08-21 12:15:28:547 => [                                                 idriver.cpp, 00378] => OpenService failed!  Error = 1060 
+
+2023-08-21 12:15:28:547 => [                                                 idriver.cpp, 00700] => Failed to call ManageDriver(DRIVER_FUNC_START)
+2023-08-21 12:15:28:547 => [                                                 idriver.cpp, 00455] => OpenService failed!  Error = 1060 
+
+2023-08-21 12:15:28:547 => [                                                 idriver.cpp, 00311] => OpenService failed!  Error = 1060 
+
+2023-08-21 12:15:28:598 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-21 12:15:28:598 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+2023-08-21 12:15:28:937 => [                                                    main.cpp, 00893] => rcScreen.width=1280, rcScreen.height=800
+2023-08-21 12:15:28:971 => [                                          kvolumemanager.cpp, 00231] => Disk0, Micron_2450_MTFDKBK512TFK, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2023-08-21 12:15:29:053 => [                                          kvolumemanager.cpp, 00252] => Disk0 => set alignment factor = AlignToMB
+2023-08-21 12:15:29:056 => [                                          kvolumemanager.cpp, 00231] => Disk1, General UDisk USB, CHS:3824,255,63, total sectors: 61440000, bytes per sector = 512
+2023-08-21 12:15:29:210 => [                                          kvolumemanager.cpp, 00252] => Disk1 => set alignment factor = AlignToMB
+2023-08-21 12:15:29:223 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-08-21 12:15:29:223 => [                                             dynamicdisk.cpp, 00215] => Disk1 is not a dynamic disk.
+=====================================================================================
+2023-08-21 13:19:52:446 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-21 13:19:52:446 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-21 13:32:25:317 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-21 13:32:25:317 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-22 10:11:57:767 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-22 10:11:57:767 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-23 01:37:11:359 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1920 SCREEN-HEIGHT:1080
+2023-08-23 01:37:11:359 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1920 SCREEN-HEIGHT:1017
+=====================================================================================
+2023-08-24 08:28:15:855 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-24 08:28:15:855 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-24 08:56:42:828 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1920 SCREEN-HEIGHT:1080
+2023-08-24 08:56:42:828 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1920 SCREEN-HEIGHT:1017
+=====================================================================================
+2023-08-24 13:54:04:512 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-24 13:54:04:512 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-25 00:36:13:402 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-25 00:36:13:402 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-25 00:41:07:475 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-25 00:41:07:475 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-25 02:00:44:109 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-25 02:00:44:109 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-25 02:37:55:761 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-25 02:37:55:761 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-25 13:02:55:441 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-25 13:02:55:441 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-25 13:53:12:620 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-25 13:53:12:620 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-25 14:27:28:921 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-25 14:27:28:921 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-25 14:39:17:293 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-25 14:39:17:293 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-26 01:53:34:007 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-26 01:53:34:007 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-26 11:04:06:939 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-26 11:04:06:939 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-26 12:28:53:266 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-26 12:28:53:266 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-27 04:39:32:904 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-27 04:39:32:904 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-28 00:59:50:501 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-28 00:59:50:501 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-28 01:54:11:067 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-28 01:54:11:067 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-29 01:55:24:933 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-29 01:55:24:933 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-29 03:34:46:467 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-29 03:34:46:467 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-29 04:58:24:797 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-29 04:58:24:797 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-31 02:01:03:325 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-31 02:01:03:325 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-31 06:00:13:194 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-31 06:00:13:194 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-08-31 06:07:57:678 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-08-31 06:07:57:678 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-09-01 03:06:34:555 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-09-01 03:06:34:555 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+=====================================================================================
+2023-09-11 11:40:04:747 => [                                                    main.cpp, 00138] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-09-11 11:40:04:747 => [                                                    main.cpp, 00139] => System is server:No
+2023-09-11 11:40:04:747 => [                                                    main.cpp, 00140] => Software is 64 bit:Yes
+2023-09-11 11:40:04:747 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-09-11 11:40:04:793 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-09-11 11:40:04:794 => [                                                 idriver.cpp, 00378] => OpenService failed!  Error = 1060 
+
+2023-09-11 11:40:04:794 => [                                                 idriver.cpp, 00700] => Failed to call ManageDriver(DRIVER_FUNC_START)
+2023-09-11 11:40:04:794 => [                                                 idriver.cpp, 00455] => OpenService failed!  Error = 1060 
+
+2023-09-11 11:40:04:794 => [                                                 idriver.cpp, 00311] => OpenService failed!  Error = 1060 
+
+2023-09-11 11:40:04:883 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-09-11 11:40:04:883 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+2023-09-11 11:40:05:437 => [                                                    main.cpp, 00893] => rcScreen.width=1280, rcScreen.height=800
+2023-09-11 11:40:05:481 => [                                          kvolumemanager.cpp, 00231] => Disk0, Micron_2450_MTFDKBK512TFK, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2023-09-11 11:40:05:556 => [                                          kvolumemanager.cpp, 00252] => Disk0 => set alignment factor = AlignToMB
+2023-09-11 11:40:05:566 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+=====================================================================================
+2023-09-11 11:40:26:118 => [                                                    main.cpp, 00138] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-09-11 11:40:26:118 => [                                                    main.cpp, 00139] => System is server:No
+2023-09-11 11:40:26:118 => [                                                    main.cpp, 00140] => Software is 64 bit:Yes
+2023-09-11 11:40:26:118 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-09-11 11:40:26:163 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-09-11 11:40:26:163 => [                                                 idriver.cpp, 00636] => Failed to copy file :.
+2023-09-11 11:40:26:182 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-09-11 11:40:26:182 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+2023-09-11 11:40:26:456 => [                                                    main.cpp, 00893] => rcScreen.width=1280, rcScreen.height=800
+2023-09-11 11:40:26:493 => [                                          kvolumemanager.cpp, 00231] => Disk0, Micron_2450_MTFDKBK512TFK, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2023-09-11 11:40:26:570 => [                                          kvolumemanager.cpp, 00252] => Disk0 => set alignment factor = AlignToMB
+2023-09-11 11:40:26:576 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-09-11 11:42:13:678 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:4 NewStartingLba:230295520 NewPartitionSize:167909376 SafeMode:1
+2023-09-11 11:42:13:719 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:42:13:725 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:42:13:725 => [                                                 kvolume.cpp, 00680] => Dismounting volume...
+2023-09-11 11:42:13:757 => [                                                 kvolume.cpp, 00685] => Succeed to dismount volume.
+2023-09-11 11:44:38:413 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:44:38:604 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:44:38:611 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:44:38:611 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:19:376 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:19:379 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:19:386 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:19:386 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:20:026 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:20:031 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:20:036 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:20:036 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:20:408 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:20:411 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:20:417 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:20:417 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:20:586 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:20:589 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:20:596 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:20:596 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:20:786 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:20:791 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:20:797 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:20:797 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:20:976 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:20:979 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:20:986 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:20:986 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:21:206 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:21:210 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:21:216 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:21:217 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:21:596 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:21:602 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:21:607 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:21:607 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:21:876 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:21:880 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:21:887 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:21:887 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:22:396 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:22:401 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:22:406 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:22:407 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:27:626 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:27:633 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:27:638 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:27:638 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:28:035 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:28:041 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:28:047 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:28:047 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:28:266 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:28:269 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:28:273 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:28:273 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:28:435 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:28:439 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:28:445 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:28:445 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:28:616 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:28:620 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:28:625 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:28:626 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:28:795 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:28:800 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:28:807 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:28:807 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:28:986 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:28:990 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:28:996 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:28:996 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:30:975 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:30:981 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:30:987 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:30:987 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:32:866 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:32:871 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:32:877 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:32:877 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:34:115 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:34:148 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:34:154 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:34:154 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:34:966 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:34:971 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:34:977 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:34:978 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:35:425 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:35:430 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:35:435 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:35:436 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:35:825 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:35:829 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:35:834 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:35:834 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:36:485 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:36:490 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:36:495 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:36:495 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+2023-09-11 11:48:36:995 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1
+2023-09-11 11:48:37:000 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:48:37:009 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:48:37:009 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:570122240 SafeMode:1 ]
+=====================================================================================
+2023-09-11 11:50:30:558 => [                                                    main.cpp, 00138] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-09-11 11:50:30:558 => [                                                    main.cpp, 00139] => System is server:No
+2023-09-11 11:50:30:558 => [                                                    main.cpp, 00140] => Software is 64 bit:Yes
+2023-09-11 11:50:30:558 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-09-11 11:50:30:599 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-09-11 11:50:30:661 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-09-11 11:50:30:661 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+2023-09-11 11:50:31:152 => [                                                    main.cpp, 00893] => rcScreen.width=1280, rcScreen.height=800
+2023-09-11 11:50:31:192 => [                                          kvolumemanager.cpp, 00231] => Disk0, Micron_2450_MTFDKBK512TFK, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2023-09-11 11:50:31:256 => [                                          kvolumemanager.cpp, 00252] => Disk0 => set alignment factor = AlignToMB
+2023-09-11 11:50:31:262 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-09-11 11:51:06:479 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:359735296 SafeMode:1
+2023-09-11 11:51:06:486 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-09-11 11:51:06:494 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-09-11 11:51:06:494 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:398204928 NewPartitionSize:359735296 SafeMode:1 ]
+=====================================================================================
+2023-10-06 04:25:40:677 => [                                                    main.cpp, 00138] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-10-06 04:25:40:677 => [                                                    main.cpp, 00139] => System is server:No
+2023-10-06 04:25:40:677 => [                                                    main.cpp, 00140] => Software is 64 bit:Yes
+2023-10-06 04:25:40:677 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-10-06 04:25:40:733 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-10-06 04:25:40:811 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-10-06 04:25:40:811 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+2023-10-06 04:25:41:430 => [                                                    main.cpp, 00893] => rcScreen.width=1280, rcScreen.height=800
+2023-10-06 04:25:41:491 => [                                          kvolumemanager.cpp, 00231] => Disk0, Micron_2450_MTFDKBK512TFK, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2023-10-06 04:25:41:578 => [                                          kvolumemanager.cpp, 00252] => Disk0 => set alignment factor = AlignToMB
+2023-10-06 04:25:41:589 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+=====================================================================================
+2023-10-11 17:35:08:798 => [                                                    main.cpp, 00138] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-10-11 17:35:08:798 => [                                                    main.cpp, 00139] => System is server:No
+2023-10-11 17:35:08:798 => [                                                    main.cpp, 00140] => Software is 64 bit:Yes
+2023-10-11 17:35:08:798 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-10-11 17:35:08:846 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-10-11 17:35:08:912 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-10-11 17:35:08:912 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+2023-10-11 17:35:09:466 => [                                                    main.cpp, 00893] => rcScreen.width=1280, rcScreen.height=800
+2023-10-11 17:35:09:514 => [                                          kvolumemanager.cpp, 00231] => Disk0, Micron_2450_MTFDKBK512TFK, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2023-10-11 17:35:09:595 => [                                          kvolumemanager.cpp, 00252] => Disk0 => set alignment factor = AlignToMB
+2023-10-11 17:35:09:611 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-10-11 17:37:14:887 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:548982784 NewPartitionSize:208957440 SafeMode:1
+2023-10-11 17:37:14:892 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-10-11 17:37:14:900 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-10-11 17:37:14:901 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:548982784 NewPartitionSize:208957440 SafeMode:1 ]
+=====================================================================================
+2023-10-24 05:29:42:885 => [                                                    main.cpp, 00138] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-10-24 05:29:42:885 => [                                                    main.cpp, 00139] => System is server:No
+2023-10-24 05:29:42:886 => [                                                    main.cpp, 00140] => Software is 64 bit:Yes
+2023-10-24 05:29:42:886 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-10-24 05:29:42:963 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-10-24 05:29:43:097 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1920 SCREEN-HEIGHT:1080
+2023-10-24 05:29:43:097 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1920 SCREEN-HEIGHT:1017
+2023-10-24 05:29:44:033 => [                                                    main.cpp, 00893] => rcScreen.width=1920, rcScreen.height=1080
+2023-10-24 05:29:44:151 => [                                          kvolumemanager.cpp, 00231] => Disk0, Micron_2450_MTFDKBK512TFK, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2023-10-24 05:29:44:242 => [                                          kvolumemanager.cpp, 00252] => Disk0 => set alignment factor = AlignToMB
+2023-10-24 05:29:44:253 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+=====================================================================================
+2023-11-20 04:35:54:323 => [                                                    main.cpp, 00138] => OS MajorVer:10 MiniorVer:0 ServicePack:0
+2023-11-20 04:35:54:324 => [                                                    main.cpp, 00139] => System is server:No
+2023-11-20 04:35:54:324 => [                                                    main.cpp, 00140] => Software is 64 bit:Yes
+2023-11-20 04:35:54:324 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-11-20 04:35:54:398 => [                                                 idriver.cpp, 00613] => Copying 64 bit driver.
+2023-11-20 04:35:54:507 => [                                    kdpifontstylesetting.cpp, 00114] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:800
+2023-11-20 04:35:54:507 => [                                    kdpifontstylesetting.cpp, 00117] => SCREEN-WIDTH:1280 SCREEN-HEIGHT:737
+2023-11-20 04:35:55:268 => [                                                    main.cpp, 00893] => rcScreen.width=1280, rcScreen.height=800
+2023-11-20 04:35:55:353 => [                                          kvolumemanager.cpp, 00231] => Disk0, Micron_2450_MTFDKBK512TFK, CHS:62260,255,63, total sectors: 1000215216, bytes per sector = 512
+2023-11-20 04:35:55:442 => [                                          kvolumemanager.cpp, 00252] => Disk0 => set alignment factor = AlignToMB
+2023-11-20 04:35:55:456 => [                                             dynamicdisk.cpp, 00215] => Disk0 is not a dynamic disk.
+2023-11-20 04:38:21:973 => [                                  kbatchcommandexecutive.cpp, 01415] => DeletePartition DiskIndex:0 Partition:6
+2023-11-20 04:38:21:982 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-11-20 04:38:22:036 => [                                                 kvolume.cpp, 00665] => Succeed to lock volume.
+2023-11-20 04:38:22:036 => [                                                 kvolume.cpp, 00680] => Dismounting volume...
+2023-11-20 04:38:22:037 => [                                                 kvolume.cpp, 00685] => Succeed to dismount volume.
+2023-11-20 04:38:22:101 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:548982784 NewPartitionSize:450822144 SafeMode:1
+2023-11-20 04:38:22:213 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1
+2023-11-20 04:38:22:220 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-11-20 04:38:22:230 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-11-20 04:38:22:230 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1 ]
+2023-11-20 04:51:25:171 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1
+2023-11-20 04:51:25:184 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-11-20 04:51:25:192 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-11-20 04:51:25:192 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1 ]
+2023-11-20 04:51:25:834 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1
+2023-11-20 04:51:25:840 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-11-20 04:51:25:849 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-11-20 04:51:25:850 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1 ]
+2023-11-20 04:51:26:455 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1
+2023-11-20 04:51:26:461 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-11-20 04:51:26:467 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-11-20 04:51:26:467 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1 ]
+2023-11-20 04:51:43:339 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1
+2023-11-20 04:51:43:345 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-11-20 04:51:43:354 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-11-20 04:51:43:354 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1 ]
+2023-11-20 04:51:43:823 => [                                  kbatchcommandexecutive.cpp, 01415] => ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1
+2023-11-20 04:51:43:830 => [                                                 kvolume.cpp, 00660] => Locking volume...
+2023-11-20 04:51:43:840 => [                                                 kvolume.cpp, 00669] => Failed to lock volume.
+2023-11-20 04:51:43:840 => [                                  kbatchcommandexecutive.cpp, 01539] => Failed to lock volume for command [ ResizePartition DiskIndex:0 PartitionIndex:5 NewStartingLba:788258816 NewPartitionSize:209715200 SafeMode:1 ]
