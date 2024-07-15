@@ -42,3 +42,15 @@ Copy and paste the code below and press enter
 ```bash
 winget install "Flow Launcher"
 ```
+
+# 5. Win11Debloat
+
+Remove pre-installed Windows bloatware apps, disable telemetry and declutter the experience by disabling or removing intrusive interface elements, ads and more.
+
+## Installation
+
+Right-click on the Windows start menu and select PowerShell(Admin) or Terminal(Admin) (Not CMD).
+Copy and paste the code below and press enter
+```bash
+& ([scriptblock]::Create((irm "https://win11debloat.raphi.re/")))
+```
